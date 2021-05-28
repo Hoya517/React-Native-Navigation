@@ -67,4 +67,8 @@ npm install @react-navigation/bottom-tabs
 - Install
 ```
 npm install @react-navigation/drawer
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 5d699660a5dc3818cb7c03979d26b353b4bf86c9
